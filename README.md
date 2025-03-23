@@ -162,12 +162,12 @@ Actions themselves are in yml files. Like command-line operations.
 
 Go into the repo in gh. The fork button is upper right.
 
-Final exercise completed
-Forked from a Pierian-Data repo.
-Cloned my forked repo.
-Added a file saying thank you.
-Committed and created pull request.
-Closed the pull request.
+1. Final exercise completed
+2. Forked from a Pierian-Data repo.
+3. Cloned my forked repo.
+4. Added a file saying thank you.
+5. Committed and created pull request.
+6. Closed the pull request.
 
 Certificate is at:
 https://www.udemy.com/certificate/UC-c25956e0-dc2c-4198-927b-6ced88da01c8/
