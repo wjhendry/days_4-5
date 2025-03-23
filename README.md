@@ -153,17 +153,17 @@ You actually commit to your forked repo and then create the pull request to the 
 When you clone from gh desktop, it will ask you what your purpose is.
 
 ## Actions
-this is a platform continuous integration and continuous delivery
+this is a platform for continuous integration and continuous delivery
 create workflows that build and test incoming pull requests, for example.
 ... or deploy merged pull requests to production
 Actions are run automatically in response to trigger events.
 Actions themselves are in yml files. Like command-line operations.
 	https://docs.github.com/en/actions
 
-Go into the repo in gh. Thefork button is upper right.
+Go into the repo in gh. The fork button is upper right.
 
-Final exersise completed
-Forked from a Pieian-Data repo.
+Final exercise completed
+Forked from a Pierian-Data repo.
 Cloned my forked repo.
 Added a file saying thank you.
 Committed and created pull request.
